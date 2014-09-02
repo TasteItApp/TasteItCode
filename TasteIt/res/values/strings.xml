@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TasteIt</string>
+    <string name="action_about">Acerca de</string>
+    <string name="dialog_message">Creado por Edel Custodio - 2014</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="list_item_left_button">Comentar</string>
+    <string name="list_item_right_button">Compartir</string>
+    <string name="title_activity_restaurantes_map">Mapa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+
+</resources>
